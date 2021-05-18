@@ -1,0 +1,10 @@
+Nils:
+Geodemand Insgesamt
+Geodemand Start location
+Geodemand End location
+
+Onno:
+Geodemand Nacht
+Geodemand Tag
+Geodemand Sommer
+Geodemand Winter
