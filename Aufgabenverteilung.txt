@@ -10,4 +10,4 @@ Geodemand Sommer
 Geodemand Winter
 
 Ivan:
-Durchschnittliche Dauer eines Trips per district
+Geodemand Fahrzeiten pro Distrikt 
