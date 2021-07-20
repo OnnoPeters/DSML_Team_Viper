@@ -1,6 +1,0 @@
-KPI's:
--subscriber-customer-ratio (revenue)
--general demand (utilization)
--usage per bike (utilization)
--average distance/duration per ride (revenue)
--most popular station (coverage)
